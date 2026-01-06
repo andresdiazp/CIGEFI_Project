@@ -1,0 +1,14 @@
+NAM (hemisferio norte) ENE-MAR (1948-2024) 77años 850mb y 500mb*
+NAM (hemisferio norte) JUN-AGO (1948-2024) 77años 850mb y 500mb*
+
+SAM (hemisferio sur) NOV (1948-2024) 77años 850mb y 500mb
+SAM (hemisferio sur) JUN-AGO (1948-2024) 77años 850mb y 500mb
+SAM (hemisferio sur) FEB-MAR (1948-2024) 77años 850mb y 500mb
+
+
+
+
+
+
+
+
